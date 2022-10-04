@@ -2,7 +2,7 @@
   <main>
     <section class="self-center flex flex-col flex-1 items-center justify-center">
       <h1 class="title text-center">DEFIT — INEDIT — SAVOIR</h1>
-      <h2 class="subtitle text-center">MARMITE</h2>
+      <h2 class="subtitle text-center">MARMITE1702</h2>
     </section>
 
     <section class="mt-8">
